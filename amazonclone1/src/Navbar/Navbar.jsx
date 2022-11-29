@@ -6,12 +6,13 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import ImageScroller from "react-image-scroller";
+import SearchIcon from '@mui/icons-material/Search';
 export default function Navbar1() {
   return (
     <div>
       <Navbar bg="light" expand="lg">
         <Container fluid>
-          <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+          <Navbar.Brand href="#"><img src = "https://bizmonthly.com/wp-content/uploads/2020/04/amazon-logo-black.png" alt = ""/></Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav
@@ -19,16 +20,23 @@ export default function Navbar1() {
               style={{ maxHeight: "100px" }}
               navbarScroll
             >
-              <Nav.Link href="#action1">Home</Nav.Link>
-              <Nav.Link href="#action2">Link</Nav.Link>
-              <NavDropdown title="Link" id="navbarScrollingDropdown">
-                <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
+              <Nav.Link href="#action1"><img src = "https://www.designbyte.org/images/consistency/amazon_logo-nav.png" alt = ""/></Nav.Link>
+              <Nav.Link href="#action2"> <div> <select id="cars" name="cars"><option value="volvo">All</option><option value="saab">Alexa skills</option><option value="fiat">Amazon devices</option><option value="audi">Amazon fashion</option><option value="fiat">Amazon devices</option><option value="fiat">Amazon fresh</option><option value="fiat">Amazon Pharmacy</option><option value="fiat">Appliances</option><option value="fiat">Apps and games</option><option value="fiat">Baby</option><option value="fiat">Beauty</option></select></div>
+              <div>
+              <form>
+  <input type="text" id="fname" name="fname"/>
+  </form>
+                </div> <SearchIcon/> </Nav.Link>
+
+              <NavDropdown title="EN" id="navbarScrollingDropdown">
+                <NavDropdown.Item href="#action3">Hindi</NavDropdown.Item>
                 <NavDropdown.Item href="#action4">
-                  Another action
+                  Tamil
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
                 <NavDropdown.Item href="#action5">
-                  Something else here
+                  <span><img src = "https://cdn2.iconfinder.com/data/icons/all-in-one-country-flag-2/256/India-flag.png" alt = ""/>You are shopping on Amazon.in</span>
+                  <span>Change your country/region</span>
                 </NavDropdown.Item>
               </NavDropdown>
               <Nav.Link href="#" disabled>
@@ -91,6 +99,8 @@ export default function Navbar1() {
         <img src="3.jpg" alt="Third" />
         <img src="4.jpg" alt="Fourth" />
         <img src="5.jpg" alt="Fifth" />
+        <img src="6jpg" alt="Fifth" />
+        <img src="7.jpg" alt="Fifth" />
       </ImageScroller>
     </div>
   );
