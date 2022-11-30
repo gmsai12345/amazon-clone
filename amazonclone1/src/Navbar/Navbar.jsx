@@ -121,7 +121,25 @@ export default function Navbar1() {
                 <span>Returns</span>
                 <span>& Orders</span>
               </Nav.Link>
+              <ShoppingCartIcon />
             </Nav>
+            <span>
+              <p>Sell</p>
+              <p>Best Sellers</p>
+              <p>Mobiles</p>
+              <p>Today's deals</p>
+              <p>Customer Service</p>
+              <p>Electronics</p>
+              <p>Prime</p>
+              <p>Home & Kitchen</p>
+              <p>Fashion</p>
+              <p>New Releases</p>
+              <p>Amazon Pay</p>
+              <p>Books</p>
+              <p>Computers</p>
+              <p>Coupons</p>
+              <p>Sports,Fitness and Outdoors</p>
+            </span>
 
             <Form className="d-flex">
               <Form.Control
