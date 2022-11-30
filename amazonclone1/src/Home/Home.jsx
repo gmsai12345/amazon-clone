@@ -44,48 +44,62 @@ export default function () {
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
-        <span>Smart LED TVs Up to 45% off | Smart LED TVs</span></di>
+        <span>Smart LED TVs Up to 45% off | Smart LED TVs</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Appliances</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Up to 60% off | Furniture</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Up to 60% off | Kitchen products</span></div>
         <span>
           <p className="bottom-image">Explore all</p>
         </span>
       </span>
       <span>
-        <p>Top pics for your home</p>
+        <p>Top picks for your home</p>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Air conditioners</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Refrigirator</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Microwaves</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+      <span>Washing machines</span></div>
         <span>
           <p className="bottom-image">See more</p>
         </span>
@@ -96,109 +110,182 @@ export default function () {
       </span>
       <span>
         <p>Exclusive offers on travel tickets</p>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Get up to ₹2000 off on flights</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Zero convenience fees on train tickets</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Guaranteed rewards on bus tickets</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Products for your travel needs</span></div>
         <span>
           <p className="bottom-image">See all offers</p>
         </span>
       </span>
       <span>
         <p>Shop by Category</p>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+         <span>Fresh</span></div>
+         <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Mobiles</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Fashion</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Electronics</span></div>
         <span>
           <p className="bottom-image">See more</p>
         </span>
       </span>
       <span>
-        <p>Shop & Pay | Earn rewards daily</p>
+        <p>Car & bike essentials | Up to 60% off</p>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Cleaning accessories</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Tyre & rim care</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Helmets</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Vaccum cleaner</span></div>
         <span>
           <p className="bottom-image">See more</p>
         </span>
       </span>
       <span>
         <p>Top rated, premium quality | Amazon Brands & more</p>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Home products</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Furniture</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Daily essentials</span></div>
+        <div>
         <img
           src=""
           alt=""
           onClick="https://www.amazon.in/l/27060486031?pf_rd_r=73TBDRX335YNQX73WDRN&pf_rd_p=022afc4b-77d5-49ee-81b9-639e0f7a250f&pd_rd_r=9e79206c-33c3-410d-aeb0-45ad10b95bab&pd_rd_w=yPwl6&pd_rd_wg=rlH23&ref_=pd_gw_unk"
         />
+        <span>Fashion</span></div>
       </span>
       <span>
         <p className="bottom-image">See more</p>
       </span>
       <div id="carousel1">
+    <div class="slide">
+        <img src="http://placehold.it/300x150" alt =""/>
+        <span>
+Up to 37% off Deal of the Day </span> <span>
+High Performance Handpicked Laptops and Desktop ComputersHigh Performance Handpicked Laptops and Desktop Computers</span>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150" alt =""/>
+        <span>33% off Deal of the Day</span><span>
+Best offers on Samsung S22 5GBest offers on Samsung S22 5G</span>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150" alt =""/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150" alt =""/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150"/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150"/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150" alt =""/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150" alt =""/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150" alt =""/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150" alt =""/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150"/>
+    </div>
+    <div class="slide">
+        <img src="http://placehold.it/300x150"/>
+    </div>
     <div class="slide">
         <img src="http://placehold.it/300x150" alt =""/>
     </div>
