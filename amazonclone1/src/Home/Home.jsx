@@ -254,22 +254,34 @@ High Performance Handpicked Laptops and Desktop ComputersHigh Performance Handpi
     <div class="slide">
         <img src="http://placehold.it/300x150" alt =""/>
         <span>33% off Deal of the Day</span><span>
-Best offers on Samsung S22 5GBest offers on Samsung S22 5G</span>
+Best offers on Samsung S22 5G</span>
     </div>
     <div class="slide">
         <img src="http://placehold.it/300x150" alt =""/>
+        <span>Up to 32% off Deal of the Day</span><span>
+Vacuum Cleaners from Top Brands</span>
     </div>
     <div class="slide">
         <img src="http://placehold.it/300x150" alt =""/>
+        <span>Up to 50% off Deal of the Day</span>
+<span>Sony Headphones: Instant Bank Discount and Crazy Prices</span>
     </div>
     <div class="slide">
         <img src="http://placehold.it/300x150"/>
+        <span>Up to 71% off Deal of the Day</span>
+<span>boAt New Launch TWS - Atom 81</span>
     </div>
     <div class="slide">
         <img src="http://placehold.it/300x150"/>
+        <span>Up to 54% off Deal of the Day </span>
+<span>Cooking EssentialsCooking Essentials</span>
     </div>
     <div class="slide">
         <img src="http://placehold.it/300x150" alt =""/>
+        <span>Up to 80% off Deal of the Day </span>
+<span>Top Offers on Oneplus, Oppo & Mi Accessories
+</span>
+
     </div>
     <div class="slide">
         <img src="http://placehold.it/300x150" alt =""/>
